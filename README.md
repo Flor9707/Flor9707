@@ -2,6 +2,9 @@
 
 <!--
 **Flor9707/Flor9707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Flor9707/Florborja/blob/main/Banner%20para%20Linkedin%20Personal%20Minimalista%20Neutral.png" width="800"/>
+</div>
 
 Soy Flor, una entusiasta de la **ciencia de datos**, la **probabilidad** y la **estadística**, con interés en aplicar herramientas de **machine learning** y **programación** para resolver problemas y generar valor a partir de los datos.  
 

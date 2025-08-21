@@ -28,6 +28,22 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data Sc
 - 💬 Pregúntame sobre **estadística, programación en Python** y **Jupyter Notebooks**.  
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/flor-borja/) | [Correo](fmbluna@gmail.com)  
 - ⚡ Fun fact: Me apasiona cómo las **matemáticas** y la **informática** se complementan para crear soluciones innovadoras.  
-
 ---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+---
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Flor9707&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ✨ Gracias por visitar mi perfil, ¡seguimos aprendiendo y construyendo juntos en el mundo de los datos!

@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Flor9707/Flor9707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flor9707/Flor9707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Soy Flor, una entusiasta de la **ciencia de datos**, la **probabilidad** y la **estadística**, con interés en aplicar herramientas de **machine learning** y **programación** para resolver problemas y generar valor a partir de los datos.  
 
